@@ -4,7 +4,7 @@ from math import sqrt
 # Retrieve and parse the input from "input.in":
 def get_input():
     lines_raw = []
-    with open("code/input.in", "r") as input_file:
+    with open("input.in", "r") as input_file:
         for ln in input_file.readlines():
             tmp = ln.split(" ")
             lines_raw.append({
