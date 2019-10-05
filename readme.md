@@ -13,7 +13,7 @@ The script, "main.py", takes the input from the file "input.in" and writes to ne
 ---
 ## Example:
 | input.in      |  output.out   | 
-| ------------- |:-------------:|
-| 0 0           | 1             |
-| 1 0           | 4             |
-| 5 0           | 0             |
+| -------------:|:------------- |
+|      0 0      | 1             |
+|      1 0      | 4             |
+|      5 0      | 0             |
